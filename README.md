@@ -17,6 +17,7 @@ Estudiante de **Informática Empresarial** en la Universidad de Costa Rica, Sede
   <a href="https://github.com/reychell-ab">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-ab__reychell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ab_reychell" />
 </p>
 
 ## 🛠️ Tecnologías
