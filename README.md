@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/reychell-ab/reychell-ab/refs/heads/main/assets/profile.svg?v=2" alt="ascii profile card" width="100%" />
+<img src="https://raw.githubusercontent.com/reychell-ab/reychell-ab/refs/heads/main/assets/profile.svg?v=3" alt="ascii profile card" width="100%" />
 </p>
 
 ## 👋 Sobre mí
