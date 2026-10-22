@@ -4,7 +4,7 @@
 
 ## 👋 About me
 
-**Business Informatics** student at the University of Costa Rica (Southern Campus). I'm interested in software development, data analysis and enterprise systems. I work on both academic and applied projects.
+**Business Informatics** student at the Universidad de Costa Rica. I'm interested in software development, data analysis and enterprise systems. I work on both academic and applied projects.
 ## 🌐 Connect with me
 
 <p align="left">
