@@ -30,15 +30,15 @@ OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
 # Field list shown on the right, neofetch-style.
 # ---------------------------------------------------------------------------
 PROFILE_FIELDS = [
-    ("Role", "Estudiante de Informática Empresarial"),
-    ("University", "Universidad de Costa Rica, Sede del Sur"),
-    ("Focus", "Desarrollo de software y sistemas empresariales"),
+    ("Role", "Business Informatics student"),
+    ("University", "University of Costa Rica, Southern Campus"),
+    ("Focus", "Software development & enterprise systems"),
     ("Stack.Mobile", "flutter, firebase"),
     ("Stack.Web", "next.js, .net, python"),
     ("Stack.Database", "sql server, firebase"),
     ("Stack.BI", "power bi"),
     ("Environment", "git, github, vscode"),
-    ("Interests", "software, redes, bases de datos"),
+    ("Interests", "software, networking, databases"),
     ("Contact.GitHub", f"github.com/{LOGIN}"),
     ("Contact.LinkedIn", "linkedin.com/in/reychell-acuña-barboza-1648b0323"),
 ]
@@ -55,10 +55,10 @@ PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
            "#b16cff", "#39e0d0", "#e8e8e8"]
 
 PROMPT_COMMANDS = [
-    "Estudiante de informática empresarial",
-    "Desarrolladora de software",
-    "Desarrollo web y móvil",
-    "Análisis de datos", 
+    "Business Informatics student",
+    "Software developer",
+    "Web & mobile development",
+    "Data analysis",
 ]
 PROMPT_TYPE_SPEED = 0.08
 PROMPT_DELETE_SPEED = 0.045
