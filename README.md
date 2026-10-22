@@ -4,8 +4,7 @@
 
 ## 👋 Sobre mí
 
-Estudiante de **Informática Empresarial** en la Universidad de Costa Rica, Sede del Sur (Golfito, Puntarenas). Me interesa el desarrollo de software, las redes, las bases de datos y los sistemas empresariales. Trabajo en proyectos académicos y aplicados, y estoy construyendo mi portafolio para prácticas y empleo junior.
-
+Estudiante de **Informática Empresarial** en la Universidad de Costa Rica, Sede del Sur. Me interesa el desarrollo de software, análisis de datos y los sistemas empresariales. Trabajo en proyectos académicos y aplicados.
 ## 🌐 Conéctate conmigo
 
 <p align="left">
