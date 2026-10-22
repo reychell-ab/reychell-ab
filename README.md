@@ -55,5 +55,5 @@ Estudiante de **Informática Empresarial** en la Universidad de Costa Rica, Sede
 ## 📈 Actividad de contribuciones
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reychell-ab&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
+  <img src="https://raw.githubusercontent.com/reychell-ab/reychell-ab/pacman-output/pacman-contribution-graph.svg" alt="Pacman comiendo mis contribuciones" width="100%" />
 </p>

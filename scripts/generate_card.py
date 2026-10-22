@@ -491,13 +491,15 @@ def main():
     stats = fetch_github_stats(LOGIN, TOKEN)
 
     fields = list(PROFILE_FIELDS)
-    fields.extend([
+    github_fields = [
         ("GitHub.Repos", stats["repos"]),
         ("GitHub.Stars", stats["stars"]),
         ("GitHub.Followers", stats["followers"]),
         ("GitHub.Languages", stats["top_languages"]),
-        ('GitHub.Contributions', stats["contributions"])
-    ])
+        ("GitHub.Contributions", stats["contributions"]),
+    ]
+    # No mostrar las estadísticas que no se pudieron obtener (N/A)
+    fields.extend([(k, v) for k, v in github_fields if v != "N/A"])
 
     svg = build_svg(art_rows, fields)
     os.makedirs(os.path.dirname(OUT_PATH) or ".", exist_ok=True)
